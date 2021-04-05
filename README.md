@@ -8,4 +8,4 @@
 - Blog [James Notes](https://jameshopbourn.github.io)
 - Twitter [@JamesHopbourn](https://twitter.com/JamesHopbourn)
 - Telegram [@JamesHopbourn](https://t.me/JamesHopbourn)
-- Channle [James Notes](https://t.me/s/JamesNotes)
+- Channel [James Notes](https://t.me/s/JamesNotes)
