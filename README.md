@@ -7,6 +7,6 @@
 
 #### Social medium
 - Blog [James Notes](https://jameshopbourn.github.io)
+- Channel [James Notes](https://t.me/s/JamesNotes)
 - Twitter [@JamesHopbourn](https://twitter.com/JamesHopbourn)
 - Telegram [@JamesHopbourn](https://t.me/JamesHopbourn)
-- Channel [James Notes](https://t.me/s/JamesNotes)
