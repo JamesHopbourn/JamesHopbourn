@@ -1,4 +1,5 @@
 ## Hi, I'm James Hopbourn 👋
+- iOS & macOS Power User
 - JavaScript / Shell / C
 - Senior author at [SSPAI](https://sspai.com/u/JamesHopbourn/posts)
 - Freshman student at [PTU](https://www.ptu.edu.cn), 9/2020 entry (Major in software engineering)
