@@ -48,6 +48,8 @@
 		</td>
     <td valign="top" width="25%"> 
 ### 生活
+[简单操作，打印一份更美观的课程表](https://sspai.com/post/68512)  
+	    
 [从这三个方面入手，一步步培养起早睡早起的习惯](https://sspai.com/post/65704)  
       
 [在大学宿舍舒适用电有多难？我这样布置电源和灯光](https://sspai.com/post/64529)  
