@@ -37,7 +37,8 @@
 [妙用书签，将微信文章装进 Drafts](https://sspai.com/post/65965)  
       
 [Drafts 5 与 Bear 联手，让我可以快速追加笔记](https://sspai.com/post/65871) 
-		</td>
+
+[Shortery，为 macOS 捷径增加自动化运行的新方式](https://sspai.com/post/72692)
 		<td valign="top" width="25%">
 ### 网络
 [安全地在外访问家庭内网](https://sspai.com/post/71626)  
