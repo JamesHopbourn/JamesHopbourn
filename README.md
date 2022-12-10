@@ -2,7 +2,7 @@
 - JavaScript / Shell / C / Python
 - Professional author at [SSPAI](https://sspai.com/u/JamesHopbourn/posts)
 - iOS & macOS Power User
-- Sophomore student at [PTU](https://www.ptu.edu.cn), 9/2020 entry (Major in software engineering)
+- Major in Software Engineering
 
 #### Social medium
 - Blog [James Notes](https://jameshopbourn.github.io)
